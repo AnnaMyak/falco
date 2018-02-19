@@ -7,3 +7,5 @@ C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\DataLayer\bin\Debug\EntityFramew
 C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\DataLayer\obj\Debug\DataLayer.dll
 C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\DataLayer\obj\Debug\DataLayer.Migrations.InitialCreate.resources
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache

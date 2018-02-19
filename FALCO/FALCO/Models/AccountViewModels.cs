@@ -77,6 +77,10 @@ namespace FALCO.Models
         public string Hospital { get; set; }
 
         [Required]
+        [Display(Name = "About")]
+        public string About{ get; set; }
+
+        [Required]
         [EmailAddress]
         [Display(Name = "Email")]
         public string Email { get; set; }
