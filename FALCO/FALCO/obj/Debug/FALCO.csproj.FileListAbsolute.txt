@@ -82,3 +82,7 @@ C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\obj\Debug\FALCO.dll
 C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\obj\Debug\FALCO.pdb
 C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\bin\DataLayer.dll
 C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\bin\DataLayer.pdb
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\bin\Highcharts.dll
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\bin\Highcharts.MVC.dll
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\bin\Highcharts.pdb
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\bin\Highcharts.MVC.pdb

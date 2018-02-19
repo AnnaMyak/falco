@@ -9,10 +9,11 @@ namespace DataLayer
 {
     public class ApplicationContext : DbContext
     {
-        public ApplicationContext() : base("Sharpness")
+        public ApplicationContext() : base("SharpnesDB")
         { }
 
         
         public DbSet<Order> Orders { get; set; }
+        public DbSet<Criteria> Criterias { get; set; }
     }
 }

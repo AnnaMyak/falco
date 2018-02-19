@@ -26,13 +26,14 @@ namespace FALCO
                     order.Value = 20;
                     order.Tissue = "test";
 
-
-
+                Criteria c = new Criteria();
+                c.Title = "Test";
                     // Создать объект контекста
                     ApplicationContext context = new DataLayer.ApplicationContext();
 
                     // Вставить данные в таблицу Customers с помощью LINQ
                     context.Orders.Add(order);
+                    context.Criterias.Add(c); 
 
                     // Сохранить изменения в БД
                     context.SaveChanges();
