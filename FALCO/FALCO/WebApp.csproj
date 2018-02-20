@@ -405,6 +405,10 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BusinessLogik.csproj">
+      <Project>{14F87853-3F2A-479A-A8C7-037403AE5834}</Project>
+      <Name>BusinessLogik</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DataLayer\DataLayer.csproj">
       <Project>{AED8D9D8-4496-4BD5-AC6A-20924D2F8497}</Project>
       <Name>DataLayer</Name>

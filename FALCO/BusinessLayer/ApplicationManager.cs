@@ -10,9 +10,15 @@ namespace BusinessLayer
 {
     public class ApplicationManager : IApplicationManager
     {
-        public void sendEmail(String message, string address)
+        public ApplicationManager()
+        {
+           
+        }
+
+        public void sendEmail()
         {
             
+            }
         }
     }
 }

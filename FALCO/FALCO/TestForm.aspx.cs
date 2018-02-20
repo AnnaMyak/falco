@@ -7,6 +7,7 @@ using System.Web.UI;
 using System.Web.ModelBinding;
 using System.IO;
 using DataLayer;
+using BusinessLayer;
 
 namespace FALCO
 {
@@ -16,10 +17,13 @@ namespace FALCO
         {
             if (Page.IsPostBack)
             {
+
                 Order order = new Order();
 
-                   ;
+                var app = new ApplicationManager();
+                app.sendEmail();
 
+                /*   
                     order.Stain = "Test";
                     order.Acceptance = 100;
                     order.Organ = "test";
@@ -36,7 +40,7 @@ namespace FALCO
                     context.Criterias.Add(c); 
 
                     // Сохранить изменения в БД
-                    context.SaveChanges();
+                    context.SaveChanges();*/
                 }
             }
         }

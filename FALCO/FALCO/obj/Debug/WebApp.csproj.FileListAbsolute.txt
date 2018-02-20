@@ -86,3 +86,8 @@ C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\bin\Microsoft.Owin.Securit
 C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
 C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\obj\Debug\FALCO.dll
 C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\obj\Debug\FALCO.pdb
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\bin\BusinessLayer.dll
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\FALCO\bin\BusinessLayer.pdb

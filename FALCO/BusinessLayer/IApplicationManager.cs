@@ -9,6 +9,6 @@ namespace BusinessLayer
     public interface IApplicationManager
 
     {
-        void sendEmail(String message, String address);
+        void sendEmail();
     }
 }
