@@ -14,10 +14,10 @@ namespace UnitTests
 
             using (ApplicationContext _context = new ApplicationContext())
             {
-                Criteria c = new Criteria();
-                c.Title = "Criteria";
-                _context.Criterias.Add(c);
-                _context.SaveChanges();
+               // Criteria c = new Criteria();
+               // c.Title = "Criteria";
+               // _context.Criterias.Add(c);
+               // _context.SaveChanges();
                 Assert.IsTrue(_context.Database.Exists());
                 //Assert.AreEqual(c.Title, _context.Criterias.Find(c.Id).Title);
                 
