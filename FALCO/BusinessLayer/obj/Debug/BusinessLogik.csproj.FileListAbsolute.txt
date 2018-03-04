@@ -1,6 +1,0 @@
-C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\BusinessLayer\bin\Debug\BusinessLayer.dll
-C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\BusinessLayer\bin\Debug\BusinessLayer.pdb
-C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\BusinessLayer\obj\Debug\BusinessLogik.csprojResolveAssemblyReference.cache
-C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\BusinessLayer\obj\Debug\BusinessLayer.dll
-C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\BusinessLayer\obj\Debug\BusinessLayer.pdb
-C:\Users\AnnaToshiba2\Desktop\FALCO\falco\FALCO\BusinessLayer\bin\Debug\ChilkatDotNet46.dll
