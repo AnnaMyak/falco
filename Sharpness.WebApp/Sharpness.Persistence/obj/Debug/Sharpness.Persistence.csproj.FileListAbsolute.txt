@@ -1,0 +1,10 @@
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\Sharpness.WebApp\Sharpness.Persistence\bin\Debug\Sharpness.Persistence.dll.config
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\Sharpness.WebApp\Sharpness.Persistence\bin\Debug\Sharpness.Persistence.dll
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\Sharpness.WebApp\Sharpness.Persistence\bin\Debug\Sharpness.Persistence.pdb
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\Sharpness.WebApp\Sharpness.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\Sharpness.WebApp\Sharpness.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\Sharpness.WebApp\Sharpness.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\Sharpness.WebApp\Sharpness.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\Sharpness.WebApp\Sharpness.Persistence\obj\Debug\Sharpness.Persistence.dll
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\Sharpness.WebApp\Sharpness.Persistence\obj\Debug\Sharpness.Persistence.pdb
+C:\Users\AnnaToshiba2\Desktop\FALCO\falco\Sharpness.WebApp\Sharpness.Persistence\obj\Debug\Sharpness.Persistence.csprojResolveAssemblyReference.cache

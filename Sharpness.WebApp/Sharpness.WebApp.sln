@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharpness.WebApp", "Sharpness.WebApp\Sharpness.WebApp.csproj", "{BC259412-9608-4B0E-97A7-C0ABBF7DFB17}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4DDBB8EB-1F83-4B3A-88FC-7F40FF80590C} = {4DDBB8EB-1F83-4B3A-88FC-7F40FF80590C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharpness.WebApp.Tests", "Sharpness.WebApp.Tests\Sharpness.WebApp.Tests.csproj", "{8D5E821F-E206-42ED-85B4-7E1A2CDF14F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharpness.Persistence", "Sharpness.Persistence\Sharpness.Persistence.csproj", "{4DDBB8EB-1F83-4B3A-88FC-7F40FF80590C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC259412-9608-4B0E-97A7-C0ABBF7DFB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC259412-9608-4B0E-97A7-C0ABBF7DFB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC259412-9608-4B0E-97A7-C0ABBF7DFB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC259412-9608-4B0E-97A7-C0ABBF7DFB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5E821F-E206-42ED-85B4-7E1A2CDF14F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5E821F-E206-42ED-85B4-7E1A2CDF14F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5E821F-E206-42ED-85B4-7E1A2CDF14F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5E821F-E206-42ED-85B4-7E1A2CDF14F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DDBB8EB-1F83-4B3A-88FC-7F40FF80590C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDBB8EB-1F83-4B3A-88FC-7F40FF80590C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDBB8EB-1F83-4B3A-88FC-7F40FF80590C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDBB8EB-1F83-4B3A-88FC-7F40FF80590C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
